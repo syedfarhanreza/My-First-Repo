@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-image: url(homepage-hero-cloudx-stinger-core-wireless-lg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1580px 580px;
+    background-color:white ;
+    background-attachment: scroll;
+}
+.topnav{
+    overflow: hidden;
+    text-align: center;
+    
+}
+.topnav a{
+    float:inline-start;
+    text-align: center;
+    padding: 30px 34px;
+    text-decoration:none;
+    font-size: 18px;
+}
+.black{
+    background-color:darkgrey;
+    color: white;
+    padding: 10px;
+}
+.black:hover{
+    color: grey;
+}
+.grey{
+    background-color:black;
+    color: grey;
+    padding: 10px;
+}
+.grey:hover{
+    color:white;
+}
+.hyper{
+    font-size: 50px;
+    color: white;
+    text-align:left;
+    inline-size: auto;
+    padding: 50px 250px 0px 250px;
+}
+#s{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 0;
+    
+   
+}
+#learn{
+    text-align: center;
+    background-color:brown;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    margin-left: 300px;
+    text-decoration: none;
+}
